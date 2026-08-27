@@ -1,5 +1,7 @@
 # Steven Ter - Professional Resume Website
 
+**Live Website**: [https://stevenhacs.github.io/profile/](https://stevenhacs.github.io/profile/)
+
 A modern, clean, and professional personal resume portfolio website designed for **Steven Ter** (Senior Scrum Master & Agile Delivery Lead). Built with an executive aesthetic—free of gimmicks, lightweight, responsive, dark/light theme aware, and print/PDF-optimized.
 
 ---
